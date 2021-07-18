@@ -1,0 +1,51 @@
+to store the code of a project
+track and manage each and every change done in code by team
+multiple team memberes can work on code withouut any issue
+can create several copies(using brancing systems) to work on different task
+no need to keep multiple versions for build
+
+two vcs
+
+git --- distributed version control
+tfvc--- team foundation version control centralized vcs
+
+
+
+touch---- create the
+
+
+cloud formation------------aws
+arm-- azure resource manager-------azure
+
+Terraform--------------all the clouds
+
+git and tfvc---
+
+how tfvc---
+
+repo---
+
+what are branches
+
+id userinfo details of changes 
+
+create new branches
+server repo---
+local repo---
+
+
+purpose of pull request
+
+n number of reviewers
+
+pull request is merge the two branches with some extra features
+like approvals
+
+
+
+red--- deleted the code (-)
+green--- added the code (+)
+
+
+
+
