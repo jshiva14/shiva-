@@ -40,5 +40,3 @@ n number of reviewers
 
 pull request is merge the two branches with some extra features
 like approvals
-
-dengey badkav
